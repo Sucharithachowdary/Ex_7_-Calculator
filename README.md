@@ -35,6 +35,7 @@ RegisterNumber: 212221240021
 ```
 
 ## MainActivity.java:
+```
 package com.example.ex_7;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -128,10 +129,11 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 
 
 ## activity_main.xml:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -279,9 +281,10 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-
+```
 
 ## AndroidMainfest.xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
@@ -307,10 +310,11 @@ public class MainActivity extends AppCompatActivity {
     </application>
 
 </manifest>
+```
 
 ## Output:
-![output]()
-![output()
+![output](https://github.com/Sucharithachowdary/Ex_7_-Calculator/blob/main/j71.png)
+![output(https://github.com/Sucharithachowdary/Ex_7_-Calculator/blob/main/j72.png)
 
 
 
